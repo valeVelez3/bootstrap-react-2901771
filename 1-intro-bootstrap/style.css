@@ -1,0 +1,22 @@
+.circulo{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(234, 164, 164);
+
+}
+.bg-mint{background-color: rgb(128, 205, 167);}
+.bg-dark-mint{background-color: rgb(86, 160, 113);}
+.bg-tomato{background-color: rgb(238, 125, 105);}
+.bg-blue{background-color: rgb(81, 158, 203);}
+
+.fs-0{font-size: 77px;}
+
+.bg-Rosa{
+    background-color: rgb(255, 88, 174);
+}
+.bg-Moztaza{
+    background-color: rgb(238, 173, 74);
+}
+.bg-Naranja{
+    background-color: rgb(251, 119, 3);
+}
